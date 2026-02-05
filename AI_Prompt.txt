@@ -1,0 +1,19 @@
+please write java code for a comprehensive school library management system with these modules.
+
+Core Components and Functionality:
+* Book Class:
+Represents a book with attributes like title, author, ISBN, publication year, and availability status.
+* Member/Student Class:
+Represents a library member or student with attributes like ID, name, contact information, and borrowed books.
+* Library Class:
+Manages the collection of books and members, and handles operations such as:
+   * Adding and removing books.
+   * Registering and de-registering members.
+   * Borrowing and returning books.
+   * Searching for books by title, author, or ISBN.
+   * Displaying available books and borrowed books.
+* User Interface:
+Console-based with simple text-based menus and input/output using System.out.println() and Scanner.
+
+Data Storage:
+In-memory: Data is lost when the program terminates.
