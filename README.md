@@ -4,7 +4,7 @@ A comprehensive school library management system built in Java, generated using 
 
 ## AI System Used
 
-**GitHub Copilot** - https://github.com/features/copilot
+**GitHub Copilot** - https://github.com/features/copilot, https://www.anthropic.com/news/claude-opus-4-1
 
 The initial code was generated from the prompt in `AI_Prompt.txt` and then fixed to add the required import statements for proper compilation.
 
@@ -33,9 +33,9 @@ The initial code was generated from the prompt in `AI_Prompt.txt` and then fixed
 
 4. **Use the menu system** to navigate through the Library Management System features.
 
-## Screenshot of Running Program
+## Screenshot of Running Program on my local computer
 
-![Library Management System Running](https://github.com/user-attachments/assets/cf9f14ea-01c4-45af-86c7-5bc15c1f7be4)
+![Library Management System Running](./Library-Management-System-Running.jpeg)
 
 ## Example Output
 
@@ -81,18 +81,6 @@ The Library Management System includes:
 - **Search Books**: Search by title, author, or ISBN
 - **Display Reports**: View all books, available books, borrowed books, overdue books, and all members
 
-## Files to Submit
-
-According to the lab instructions, submit the following:
-
-1. ✅ **AI System URL**: GitHub Copilot - https://github.com/features/copilot (enter in the Assignment's "Text Box")
-2. ✅ **Screenshot**: A screenshot of VS Code/terminal running the program (included above)
-3. ✅ **AI_Prompt.txt**: Only if you modified it from the original
-4. ✅ **Java code files**:
-   - `LibraryManagementSystem.java` - Main application entry point
-   - `Library.java` - Core library class with all management methods
-   - `Book.java` - Book entity class
-   - `Member.java` - Member/Student entity class
 
 ## Project Structure
 
